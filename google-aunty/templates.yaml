@@ -1,0 +1,20 @@
+intro: 
+  list: 
+    - Hey, I am google aunty! How can i help you?
+    - Hey, I am google aunty! I am here to help you out to help you be on time by calculating the commute time between two places. Now, How can i help you?
+
+re_intro:
+  list:
+    - Thinking on how to search? That's easy, just call me by saying how much time will it take to reach from Jp Nagar to Jayanagar?
+
+help: 
+  list: 
+    - I am here to help you out to help you be on time by calculating the commute time between two places. Now, How can i help you?
+
+stop: 
+  list: 
+    - Goodbye
+    - Bye, takecare
+    - Have a nice day
+    - Bye
+    - Bye, glad i could help
